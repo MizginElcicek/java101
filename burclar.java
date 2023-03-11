@@ -86,7 +86,7 @@ public class Main {
             if(gun>=23){
                 System.out.println("Akrep Burcu");
             }
-            else if(gun<gun=22){
+            else if(gun<=22){
                 System.out.println("Başak Burcu");
             }
         }
