@@ -1,0 +1,11 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+7 sayısı 5 sayısının sağında bulunur.
+5 sayısı 1 sayısının sağında bulunur.
+1 sayısı 8 sayısının solunda bulunur.
+8 sayısı 3 sayısının sağında bulunur.
+3 sayısı 6 sayısının solunda bulunur.
+6 sayısı 0 sayısının sağında bulunur.
+0 sayısı 9 sayısının solunda bulunur.
+9 sayısı 4 sayısının sağında bulunur.
+4 sayısı 2 sayısının sağında bulunur.
